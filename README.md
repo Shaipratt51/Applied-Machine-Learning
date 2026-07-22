@@ -7,8 +7,6 @@ An end-to-end **Machine Learning** and **Data Analytics** project built using **
 # 📌 Repository Structure
 
 ```text
-ALL/
-│
 ├── DATASET/
 │   └── cancer issue (1).csv
 │
