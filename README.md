@@ -17,8 +17,8 @@ An end-to-end **Machine Learning** and **Data Analytics** project built using **
 ```
 ### Trained Models
 
-**The trained model files (`survival_model.pkl` and `recurrence_model.pkl`) are not included in this repository because they exceed GitHub's file size limit. You can generate them by running the training notebook/script.
-**
+The trained model files (`survival_model.pkl` and `recurrence_model.pkl`) are not included in this repository because they exceed GitHub's file size limit. You can generate them by running the training notebook/script.
+
 
 ---
 
